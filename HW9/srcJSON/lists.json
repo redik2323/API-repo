@@ -1,0 +1,82 @@
+{
+    "lists": [
+        {
+            "id": "901511417536",
+            "name": "SomeLIst",
+            "orderindex": 57,
+            "content": "",
+            "status": null,
+            "priority": null,
+            "assignee": null,
+            "task_count": 0,
+            "due_date": null,
+            "start_date": null,
+            "folder": {
+                "id": "90156553701",
+                "name": "Projects",
+                "hidden": false,
+                "access": true
+            },
+            "space": {
+                "id": "90154305497",
+                "name": "Team Space",
+                "access": true
+            },
+            "archived": false,
+            "override_statuses": false,
+            "permission_level": "create"
+        },
+        {
+            "id": "901511417549",
+            "name": "AnotherList",
+            "orderindex": 58,
+            "content": "",
+            "status": null,
+            "priority": null,
+            "assignee": null,
+            "task_count": 0,
+            "due_date": null,
+            "start_date": null,
+            "folder": {
+                "id": "90156553701",
+                "name": "Projects",
+                "hidden": false,
+                "access": true
+            },
+            "space": {
+                "id": "90154305497",
+                "name": "Team Space",
+                "access": true
+            },
+            "archived": false,
+            "override_statuses": false,
+            "permission_level": "create"
+        },
+        {
+            "id": "901511417560",
+            "name": "NaturaList",
+            "orderindex": 59,
+            "content": "",
+            "status": null,
+            "priority": null,
+            "assignee": null,
+            "task_count": 0,
+            "due_date": null,
+            "start_date": null,
+            "folder": {
+                "id": "90156553701",
+                "name": "Projects",
+                "hidden": false,
+                "access": true
+            },
+            "space": {
+                "id": "90154305497",
+                "name": "Team Space",
+                "access": true
+            },
+            "archived": false,
+            "override_statuses": false,
+            "permission_level": "create"
+        }
+    ]
+}
